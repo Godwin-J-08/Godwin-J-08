@@ -64,6 +64,59 @@ My approach combines technical curiosity, analytical thinking, and practical exp
   <img src="https://img.shields.io/badge/Audio-Digital%20Signal%20Processing-176B87?style=for-the-badge" alt="Digital signal processing" />
   <img src="https://img.shields.io/badge/Mixing-Audio%20Production-6246A8?style=for-the-badge" alt="Audio mixing" />
 </p>
+## 🎚️ Live Sound & Audio Engineering
+
+I have practical experience in live sound and church audio production, with a strong interest in console operation, signal flow, system routing, and professional mixing workflows.
+
+### 🎛️ Digital Mixing Consoles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Behringer-WING%20%7C%20X32-111111?style=for-the-badge" alt="Behringer WING and X32" />
+  <img src="https://img.shields.io/badge/MIDAS-Digital%20Mixing-263746?style=for-the-badge" alt="MIDAS digital consoles" />
+  <img src="https://img.shields.io/badge/Allen%20%26%20Heath-Digital%20Consoles-007A78?style=for-the-badge" alt="Allen and Heath consoles" />
+</p>
+
+**Console familiarity:**
+
+* **Behringer:** WING and X32 digital mixing consoles
+* **MIDAS:** Physical console operation and mixing workflows
+* **Allen & Heath:** Physical mixing consoles and live sound workflows
+
+Areas of interest and practical work include input gain staging, channel EQ, dynamics processing, FX sends and returns, bus routing, auxiliary monitor mixes, and main output signal flow.
+
+### 🔌 Stageboxes & Digital Audio Connectivity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Behringer-S32%20Digital%20Stagebox-222222?style=for-the-badge" alt="Behringer S32" />
+  <img src="https://img.shields.io/badge/Allen%20%26%20Heath-Stagebox%20Systems-007A78?style=for-the-badge" alt="Allen and Heath stageboxes" />
+</p>
+
+* Familiar with **Behringer S32** digital stagebox systems.
+* Basic knowledge of Allen & Heath stageboxes and their role in digital mixing setups.
+* Understanding of stage input connections, remote I/O, channel routing, and console-to-stagebox signal flow.
+
+### 🎚️ Waves Audio & Processing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Waves-SuperRack%20Performer-0066CC?style=for-the-badge" alt="Waves SuperRack Performer" />
+  <img src="https://img.shields.io/badge/Waves-Audio%20Plugins-222222?style=for-the-badge" alt="Waves audio plugins" />
+</p>
+
+* Familiarity with **Waves SuperRack Performer** and its live audio plugin-hosting workflow.
+* Working knowledge of selected Waves audio plugins.
+* Exploring plugin-based EQ, compression, dynamics, and vocal processing.
+* Interested in integrating external processing into live sound workflows.
+
+### 🎼 Audio Production & Signal Processing
+
+* Front-of-house (FOH) mixing and stage monitor workflows
+* Church music production, vocal mixing, and live event audio
+* Signal flow, gain structure, EQ, compression, reverb, and delay
+* Logic Pro and multitrack audio workflows
+* Digital mixing console routing, effects management, and system integration
+
+**My approach:** Clean mixes, controlled gain structure, clear vocal intelligibility, reliable routing, and consistent sound across the audience and stage.
+
 
 Areas of interest and experience:
 
