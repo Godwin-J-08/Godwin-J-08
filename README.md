@@ -65,6 +65,8 @@ My approach combines technical curiosity, analytical thinking, and practical exp
   <img src="https://img.shields.io/badge/Mixing-Audio%20Production-6246A8?style=for-the-badge" alt="Audio mixing" />
 </p>
 ## 🎚️ Live Sound & Audio Engineering
+🎤 **Live Sound Experience:** Worked on **25+ live shows and events**, gaining practical experience in FOH mixing, stage monitoring, digital console operation, stagebox connectivity, and live audio signal flow across church services and event productions.
+
 
 I have practical experience in live sound and church audio production, with a strong interest in console operation, signal flow, system routing, and professional mixing workflows.
 
