@@ -79,8 +79,8 @@ I have practical experience in live sound and church audio production, with a st
 **Console familiarity:**
 
 * **Behringer:** WING and X32 digital mixing consoles
-* **MIDAS:** Physical console operation and mixing workflows
-* **Allen & Heath:** Physical mixing consoles and live sound workflows
+* **MIDAS:** M32 and mixing workflows
+* **Allen & Heath:** Sq Series Consoles, Avantis 
 
 Areas of interest and practical work include input gain staging, channel EQ, dynamics processing, FX sends and returns, bus routing, auxiliary monitor mixes, and main output signal flow.
 
